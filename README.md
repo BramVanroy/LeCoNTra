@@ -5,7 +5,7 @@ We present LeConTra, a learner corpus consisting of English-to-Dutch news transl
 
 ## Metadata
 
-Metadata was collected with [TICQ](https://traco.uni-mainz.de/ticq/). Identifiable columns such as IP addresses and initials have been removed.
+Metadata was collected with [TICQ](https://traco.uni-mainz.de/ticq/). Identifiable columns such as IP addresses and initials have been removed. You will find that there is a P04 in the data who is not present in the metadata. As the paper describes, P04 are reference translations. There is no process data for P04 (only a final translation and product-related metrics). It is unlikely that all translations were made by the same person, so be vigilant when using P04 for analyses as it is a collection of reference translations, likely by different translators.
 
 ## Citation
 
