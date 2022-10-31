@@ -9,7 +9,7 @@ Metadata was collected with [TICQ](https://traco.uni-mainz.de/ticq/). Identifiab
 
 ## Citation
 
-Vanroy, B. and Macken, L. (2022). LeConTra: A Learner Corpus of English-to-Dutch News Translation. In *Proceedings of the Language Resources and Evaluation Conference*, pages 1807-1816, Marseille, France. European Language Resources Association.
+Vanroy, B. and Macken, L. (2022). [LeConTra: A Learner Corpus of English-to-Dutch News Translation](https://aclanthology.org/2022.lrec-1.192). In *Proceedings of the Language Resources and Evaluation Conference*, pages 1807-1816, Marseille, France. European Language Resources Association.
 
 ```bibtex
 @InProceedings{vanroy-macken:2022:LREC,
