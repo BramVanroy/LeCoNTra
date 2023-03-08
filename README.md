@@ -26,3 +26,7 @@ Vanroy, B. and Macken, L. (2022). [LeConTra: A Learner Corpus of English-to-Dutc
 }
 
 ```
+
+## Erratum
+
+In the paper, the number of tokens column in the Appendix is incorrect. The cause of this is not immediately clear but may have to do with changes in the TPR-DB table generation, and/or white-space and newline handling. To get the right number of tokens per text, please consider the number of rows in the *.st tables (source tokens) in this repository. They show one row per token.
